@@ -66,4 +66,4 @@ netlify.toml
 # mac FS
 .DS_Store
 .vscode/
-about.json
+# about.json

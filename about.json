@@ -1,0 +1,473 @@
+{
+  "name": "Sravan Reddy Jeedipelly",
+  "description": "Portfolio of Sravan Reddy Jeedipelly - Software Developer!",
+  "roles": [
+    "Software Developer",
+    "Full Stack Developer",
+    "Frontend Developer",
+    "Backend Developer",
+    "Traveller"
+  ],
+  "socialLinks": [
+    {
+      "sys": {
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "8e2pkf7ww9mj"
+          }
+        },
+        "id": "4SrlLN9bt6Yew2UyGgM06a",
+        "type": "Entry",
+        "createdAt": "2020-07-14T09:50:06.742Z",
+        "updatedAt": "2020-07-15T16:46:18.077Z",
+        "environment": {
+          "sys": {
+            "id": "master",
+            "type": "Link",
+            "linkType": "Environment"
+          }
+        },
+        "revision": 4,
+        "contentType": {
+          "sys": {
+            "type": "Link",
+            "linkType": "ContentType",
+            "id": "socialLink"
+          }
+        },
+        "locale": "en-US"
+      },
+      "fields": {
+        "name": "Github",
+        "url": "https://github.com/sra1rdy",
+        "fontAwesomeIcon": "github"
+      }
+    },
+    {
+      "sys": {
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "8e2pkf7ww9mj"
+          }
+        },
+        "id": "3DpgtG8qI8QCWyEAuME4Ku",
+        "type": "Entry",
+        "createdAt": "2020-07-14T09:50:08.455Z",
+        "updatedAt": "2020-07-15T13:17:25.768Z",
+        "environment": {
+          "sys": {
+            "id": "master",
+            "type": "Link",
+            "linkType": "Environment"
+          }
+        },
+        "revision": 3,
+        "contentType": {
+          "sys": {
+            "type": "Link",
+            "linkType": "ContentType",
+            "id": "socialLink"
+          }
+        },
+        "locale": "en-US"
+      },
+      "fields": {
+        "name": "Medium",
+        "url": "https://medium.com/@sravanreddy235",
+        "fontAwesomeIcon": "medium"
+      }
+    },
+    {
+      "sys": {
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "8e2pkf7ww9mj"
+          }
+        },
+        "id": "114ApRkJZq640w8G2GwM8w",
+        "type": "Entry",
+        "createdAt": "2020-07-14T09:50:07.945Z",
+        "updatedAt": "2020-07-15T13:02:12.114Z",
+        "environment": {
+          "sys": {
+            "id": "master",
+            "type": "Link",
+            "linkType": "Environment"
+          }
+        },
+        "revision": 3,
+        "contentType": {
+          "sys": {
+            "type": "Link",
+            "linkType": "ContentType",
+            "id": "socialLink"
+          }
+        },
+        "locale": "en-US"
+      },
+      "fields": {
+        "name": "Contact me",
+        "url": "sravanreddy235@gmail.com",
+        "fontAwesomeIcon": "envelope"
+      }
+    },
+    {
+      "sys": {
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "8e2pkf7ww9mj"
+          }
+        },
+        "id": "4J6WFTjoMUCmQKuKAaOsqE",
+        "type": "Entry",
+        "createdAt": "2020-07-14T09:50:07.614Z",
+        "updatedAt": "2020-07-15T14:10:27.571Z",
+        "environment": {
+          "sys": {
+            "id": "master",
+            "type": "Link",
+            "linkType": "Environment"
+          }
+        },
+        "revision": 3,
+        "contentType": {
+          "sys": {
+            "type": "Link",
+            "linkType": "ContentType",
+            "id": "socialLink"
+          }
+        },
+        "locale": "en-US"
+      },
+      "fields": {
+        "name": "LinkedIn",
+        "url": "https://www.linkedin.com/in/sravan-reddy-jeedipelly/",
+        "fontAwesomeIcon": "linkedin"
+      }
+    },
+    {
+      "sys": {
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "8e2pkf7ww9mj"
+          }
+        },
+        "id": "gPwYzsXfFfNElBFwdKEbz",
+        "type": "Entry",
+        "createdAt": "2020-07-15T14:23:56.852Z",
+        "updatedAt": "2020-07-15T14:23:56.852Z",
+        "environment": {
+          "sys": {
+            "id": "master",
+            "type": "Link",
+            "linkType": "Environment"
+          }
+        },
+        "revision": 1,
+        "contentType": {
+          "sys": {
+            "type": "Link",
+            "linkType": "ContentType",
+            "id": "socialLink"
+          }
+        },
+        "locale": "en-US"
+      },
+      "fields": {
+        "name": "Stackoverflow",
+        "url": "https://stackoverflow.com/users/11853447/sravan-reddy",
+        "fontAwesomeIcon": "stackoverflow"
+      }
+    }
+  ],
+  "profile": {
+    "sys": {
+      "space": {
+        "sys": {
+          "type": "Link",
+          "linkType": "Space",
+          "id": "8e2pkf7ww9mj"
+        }
+      },
+      "id": "6nf3rNaaVaUqYcoAcciSeC",
+      "type": "Asset",
+      "createdAt": "2020-07-14T09:50:04.942Z",
+      "updatedAt": "2020-07-15T13:16:24.715Z",
+      "environment": {
+        "sys": {
+          "id": "master",
+          "type": "Link",
+          "linkType": "Environment"
+        }
+      },
+      "revision": 3,
+      "locale": "en-US"
+    },
+    "fields": {
+      "title": "Sravan Logo",
+      "description": "Sravan Logo",
+      "file": {
+        "url": "//images.ctfassets.net/8e2pkf7ww9mj/6nf3rNaaVaUqYcoAcciSeC/fceb42e8a541aa6c6afa7ae04badc342/sravan-logo.png",
+        "details": {
+          "size": 4749,
+          "image": {
+            "width": 200,
+            "height": 200
+          }
+        },
+        "fileName": "sravan-logo.png",
+        "contentType": "image/png"
+      }
+    }
+  },
+  "aboutMe": "Hello 👋 I'm Sravan Reddy Jeedipelly. Recent graduate in Digital Engineering from Otto-von-Guericke university, Magdeburg, Germany. Enthusiastic in computer science and it’s related orbits. In particular, software development. I'm a web enthusiast with experience in full stack web development and proficient in various programming languages including Javascript,Typescript,PHP and Java. Passionate about building digital products and digital solutions.\nCurrently, my interest is to develop web applications that are responsive and scalable. \n\nWhy web 🤔? I would say, __Ease of access__\n\nA few technologies I used so far, \n\n[ReactJS](https://reactjs.org/)     [Angular 7+](https://angular.io/) \n [GatsbyJS](https://www.gatsbyjs.org/)   [NodeJS](https://nodejs.org/en/) \n [Contentful CMS](https://www.contentful.com/) [Graphql](https://graphql.org/)  [HTML5](https://developer.mozilla.org/en-US/docs/Web/HTML)                [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)               [Javascript](https://www.javascript.com/)        [Typescript](https://www.typescriptlang.org/) [PHP](https://www.php.net/) [Laravel](https://laravel.com/)\n\n*Current Status* : Looking for a job as a software developer in Germany.\n\n",
+  "mediumUser": "@mate.starter",
+  "projects": [
+    {
+      "sys": {
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "8e2pkf7ww9mj"
+          }
+        },
+        "id": "6Y7EIx73nUCWuoIWcsuM00",
+        "type": "Entry",
+        "createdAt": "2020-07-14T09:50:08.789Z",
+        "updatedAt": "2020-07-15T17:48:23.151Z",
+        "environment": {
+          "sys": {
+            "id": "master",
+            "type": "Link",
+            "linkType": "Environment"
+          }
+        },
+        "revision": 4,
+        "contentType": {
+          "sys": {
+            "type": "Link",
+            "linkType": "ContentType",
+            "id": "project"
+          }
+        },
+        "locale": "en-US"
+      },
+      "fields": {
+        "name": "Artist Web app",
+        "publishedDate": "2020-07-01T00:00+02:00",
+        "logo": {
+          "sys": {
+            "space": {
+              "sys": {
+                "type": "Link",
+                "linkType": "Space",
+                "id": "8e2pkf7ww9mj"
+              }
+            },
+            "id": "u3Um4zkMrAaQioyq4oSIW",
+            "type": "Asset",
+            "createdAt": "2020-07-14T09:50:05.234Z",
+            "updatedAt": "2020-07-15T16:38:08.072Z",
+            "environment": {
+              "sys": {
+                "id": "master",
+                "type": "Link",
+                "linkType": "Environment"
+              }
+            },
+            "revision": 3,
+            "locale": "en-US"
+          },
+          "fields": {
+            "title": "laxmi-artist logo",
+            "description": "laxmi-artist logo",
+            "file": {
+              "url": "//images.ctfassets.net/8e2pkf7ww9mj/u3Um4zkMrAaQioyq4oSIW/f628d4c2da850f9d1ba0527468b21227/logo-artist.png",
+              "details": {
+                "size": 7039,
+                "image": {
+                  "width": 200,
+                  "height": 200
+                }
+              },
+              "fileName": "logo-artist.png",
+              "contentType": "image/png"
+            }
+          }
+        },
+        "repositoryUrl": "https://github.com/sra1rdy/laxmi-artist-gatsby-contentful",
+        "description": "An e-commerce web application for an artist built with gatsby, integrated with contentful CMS and deployed to netlify.",
+        "projectUrl": "https://laxmi-narayana-artist.netlify.app/",
+        "type": "Web"
+      }
+    },
+    {
+      "sys": {
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "8e2pkf7ww9mj"
+          }
+        },
+        "id": "2GKNR2f4z6IwAg6a2MmKCc",
+        "type": "Entry",
+        "createdAt": "2020-07-14T09:50:09.151Z",
+        "updatedAt": "2020-07-15T17:16:36.535Z",
+        "environment": {
+          "sys": {
+            "id": "master",
+            "type": "Link",
+            "linkType": "Environment"
+          }
+        },
+        "revision": 4,
+        "contentType": {
+          "sys": {
+            "type": "Link",
+            "linkType": "ContentType",
+            "id": "project"
+          }
+        },
+        "locale": "en-US"
+      },
+      "fields": {
+        "name": "Sternschnuppe Homepage",
+        "publishedDate": "2020-05-10T00:00+02:00",
+        "logo": {
+          "sys": {
+            "space": {
+              "sys": {
+                "type": "Link",
+                "linkType": "Space",
+                "id": "8e2pkf7ww9mj"
+              }
+            },
+            "id": "6rkOXCpyvuekYIgy6U6gGu",
+            "type": "Asset",
+            "createdAt": "2020-07-14T09:50:05.509Z",
+            "updatedAt": "2020-07-15T17:09:19.329Z",
+            "environment": {
+              "sys": {
+                "id": "master",
+                "type": "Link",
+                "linkType": "Environment"
+              }
+            },
+            "revision": 3,
+            "locale": "en-US"
+          },
+          "fields": {
+            "title": "Sternschnuppe Logo",
+            "description": "sternschnuppe logo",
+            "file": {
+              "url": "//images.ctfassets.net/8e2pkf7ww9mj/6rkOXCpyvuekYIgy6U6gGu/4f036a35018ae470a58608bce911aa96/Logo.gif",
+              "details": {
+                "size": 62451,
+                "image": {
+                  "width": 705,
+                  "height": 362
+                }
+              },
+              "fileName": "Logo.gif",
+              "contentType": "image/gif"
+            }
+          }
+        },
+        "repositoryUrl": "https://github.com/sra1rdy/StaticHomepage",
+        "description": " A static responsive homepage built with HTML, CSS and Javascript for a child day care center.  ",
+        "projectUrl": "http://ohz-sternschnuppe.de/",
+        "type": "Web"
+      }
+    },
+    {
+      "sys": {
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "8e2pkf7ww9mj"
+          }
+        },
+        "id": "2kX8hXoHESiMVQQybETLA2",
+        "type": "Entry",
+        "createdAt": "2020-07-15T17:42:07.556Z",
+        "updatedAt": "2020-07-15T17:48:50.065Z",
+        "environment": {
+          "sys": {
+            "id": "master",
+            "type": "Link",
+            "linkType": "Environment"
+          }
+        },
+        "revision": 2,
+        "contentType": {
+          "sys": {
+            "type": "Link",
+            "linkType": "ContentType",
+            "id": "project"
+          }
+        },
+        "locale": "en-US"
+      },
+      "fields": {
+        "name": "Portfolio",
+        "publishedDate": "2020-07-15T00:00+02:00",
+        "logo": {
+          "sys": {
+            "space": {
+              "sys": {
+                "type": "Link",
+                "linkType": "Space",
+                "id": "8e2pkf7ww9mj"
+              }
+            },
+            "id": "2SO1Dw6J1RDgXBpC4NExE8",
+            "type": "Asset",
+            "createdAt": "2020-07-15T17:39:35.548Z",
+            "updatedAt": "2020-07-15T17:39:35.548Z",
+            "environment": {
+              "sys": {
+                "id": "master",
+                "type": "Link",
+                "linkType": "Environment"
+              }
+            },
+            "revision": 1,
+            "locale": "en-US"
+          },
+          "fields": {
+            "title": "My Portfolio Logo",
+            "description": "sravan logo",
+            "file": {
+              "url": "//images.ctfassets.net/8e2pkf7ww9mj/2SO1Dw6J1RDgXBpC4NExE8/9ce1afee510052eb515b2770015ecb93/sravan-logo.png",
+              "details": {
+                "size": 4749,
+                "image": {
+                  "width": 200,
+                  "height": 200
+                }
+              },
+              "fileName": "sravan-logo.png",
+              "contentType": "image/png"
+            }
+          }
+        },
+        "repositoryUrl": "https://github.com/sra1rdy/sravan-reddy-jeedipelly-portfolio",
+        "description": "A modern responsive UI of portfolio built with gatsby and integrated with contentful and deployed to AWS amplify. ",
+        "type": "web"
+      }
+    }
+  ]
+}
