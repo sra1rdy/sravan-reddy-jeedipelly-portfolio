@@ -9,9 +9,8 @@
 
 ![Gatsby Starter Mate logo](./media/gatsby-starter-mate-logo.png)
 
-> An accessible and fast portfolio starter for Gatsby integrated with Contentful CMS.
+> Portfolio of Sravan Reddy Jeedipelly built with Gatsby integrated with Contentful CMS.
 
-The target audience are Developers 💻 and Tech Writers ✍️.
 
 ### [Check the Demo ✨](https://gatsby-starter-mate.netlify.com/)
 
