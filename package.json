@@ -1,7 +1,7 @@
 {
-  "name": "gatsby-starter-mate",
+  "name": "sravan-portfolio-gatsby-contentful",
   "version": "2.5.3",
-  "description": "Gatsby v2 starter to create a top notch portfolio!",
+  "description": "A web app for portfolio built with gatsby and contentful",
   "main": "index.js",
   "scripts": {
     "pre-build": "node scripts/get-about",
@@ -22,7 +22,7 @@
   },
   "keywords": [
     "gatsby",
-    "starter",
+    "Sravan Reddy Jeedipelly ",
     "contentful",
     "PWA",
     "portfolio"
@@ -40,6 +40,7 @@
     "@tippy.js/react": "^3.1.1",
     "contentful": "^7.14.3",
     "gatsby": "^2.24.2",
+    "gatsby-cli": "^2.12.61",
     "gatsby-plugin-google-analytics": "^2.3.11",
     "gatsby-plugin-manifest": "^2.4.18",
     "gatsby-plugin-offline": "^3.2.11",

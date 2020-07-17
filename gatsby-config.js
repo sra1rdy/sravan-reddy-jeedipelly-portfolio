@@ -1,9 +1,10 @@
+/* eslint-disable import/no-extraneous-dependencies */
 const colors = require('./colors');
 const about = require('./about.json');
 
 require('dotenv').config();
 
-const { ACCESS_TOKEN, SPACE_ID, ANALYTICS_ID, DETERMINISTIC } = process.env;
+const { CONTENTFUL_ACCESS_TOKEN, CONTENTFUL_SPACE_ID, ANALYTICS_ID, DETERMINISTIC } = process.env
 
 const plugins = [
   'gatsby-plugin-react-helmet',
@@ -23,8 +24,8 @@ const plugins = [
   {
     resolve: 'gatsby-source-contentful',
     options: {
-      spaceId: SPACE_ID,
-      accessToken: ACCESS_TOKEN,
+      spaceId: CONTENTFUL_SPACE_ID,
+      accessToken: CONTENTFUL_ACCESS_TOKEN,
     },
   },
   'gatsby-transformer-remark',

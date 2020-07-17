@@ -1,14 +1,15 @@
+/* eslint-disable import/no-extraneous-dependencies */
 const contentful = require('contentful');
 const fs = require('fs');
 const path = require('path');
 
 require('dotenv').config();
 
-const { ACCESS_TOKEN, SPACE_ID } = process.env;
+const { CONTENTFUL_ACCESS_TOKEN, CONTENTFUL_SPACE_ID } = process.env;
 
 const client = contentful.createClient({
-  space: SPACE_ID,
-  accessToken: ACCESS_TOKEN,
+  space: CONTENTFUL_SPACE_ID,
+  accessToken: CONTENTFUL_ACCESS_TOKEN,
 });
 
 const getAboutEntry = (entry) => entry.sys.contentType.sys.id === 'about';
